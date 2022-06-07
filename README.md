@@ -1,10 +1,10 @@
 **FACE-RECOGNITION SYSTEM**
 
-**Frontend*
+**Frontend:*
 
 HTML,CSS,JS
 
-**Backend*
+**Backend:*
 
 Flask and Python
 
@@ -18,7 +18,7 @@ Flask and Python
 
 4.Crop the Face from entire photo and Save It
 
-**Steps*
+**Steps:*
 
 1.Clone the repo
 
@@ -48,6 +48,7 @@ Flask and Python
 
 
 HERE COMES THE FUN PART,
+
 I'VE ADDED SOME MORE FEATURES TO MY PROJECT, LET'S CHECKOUT!
 
 
@@ -63,4 +64,5 @@ I'VE ADDED SOME MORE FEATURES TO MY PROJECT, LET'S CHECKOUT!
 
 
 FUTURE SCOPE OF THE PROJECT LIES IN INTEGRATING ALL PYTHON FILES WITH FLASK APP AND BUILD WEB APP ON LIVE SERVER!
+
 THANKS FOR STICKING TILL THE END!
